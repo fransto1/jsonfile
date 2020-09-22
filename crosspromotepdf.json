@@ -1,36 +1,20 @@
-{
-	"More":
-		[
-			{
-			"id":1,
-			"judul":"",
-			"image":"",
-			"link":""
-			}
-		],
-		
-    "Iklan": 
-		[
-				{
-                "status": "0",
-                "link": "https://play.google.com/store/apps/details?id=",
-                "pengaturan_iklan":"1",
-                "startappid":"205319473",
-        
-                "pub_id": "",
-                "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-                "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-                "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        
-                "fan_inter": "",
-                "fan_banner": "",
-                
-                "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
-                "interval": 0,
-                "version_app":1,
-                "hpk":"asurannsi, acne, pendidikan, children"
-        
-                }
-		]
-		
-}
+[
+	{
+		"appIcon": "https://3.bp.blogspot.com/-kczxjCkPqek/X19sm6ZGoGI/AAAAAAAADv8/XiP6GDRQ2gAf8t6P1-beeDnbx6CT4OR7wCK4BGAYYCw/s1600/Piano-Dancing-Pallbearers.png",
+		"appName": "Piano Dancing Pallbearers Coffin Dance meme game",
+		"appDescription": "Ini adalah piano dengan musik dari petualangan Pallbearers Coffin, menampilkan tingkat kesulitan tinggi dan hebat",
+		"url": "https://play.google.com/store/apps/details?id=com.Pallbearersdance.pianotilegsme"
+	},
+	{
+		"appIcon": "https://1.bp.blogspot.com/-H8lFkaMWPbM/X19rCazyG_I/AAAAAAAADvs/xEob0B165igif2iHBJKixZb6zPf5GKPNgCK4BGAYYCw/s1600/gitar-hero-hensin.png",
+		"appName": "Gitar Hero For Kuuga ex-aid henshin belt",
+		"appDescription": "Ini adalah Gitar Rider dan game bermain gitar dengan lagu dari Henshin Hero",
+		"url": "https://play.google.com/store/apps/details?id=com.gitarhenshin.riderherospeed"
+	},
+	{
+		"appIcon": "https://1.bp.blogspot.com/-WsCad9ULPrY/X19sm27ws5I/AAAAAAAADwA/yt6bjmu_ajUEz8oRch5iH_exut6Kqp7TQCK4BGAYYCw/s1600/OST.Zombies-2-gitar-hero.png",
+		"appName": "Guitar Hero For OST.Zombies 2",
+		"appDescription": "Ini adalah Gitar Rider dan game bermain gitar dengan lagu dari OST.Zombies 2, menampilkan musik superhero hebat dari OST.Zombies 2",
+		"url": "https://play.google.com/store/apps/details?id=com.ostZombies2.riderherospeed"
+	}
+]
