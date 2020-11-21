@@ -101,12 +101,12 @@
 				{
                 "status": "0",
                 "link": "https://play.google.com/store/apps/details?id=",
-                "pengaturan_iklan":"1",
+                "pengaturan_iklan":"0",
                 "startappid":"205319473",
         
                 "pub_id": "",
                 "admob_app_id": "",
-                "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+                "admob_inter": "ca-app-pub-5303627416733554/1694847161",
                 "admob_native": "",
         
                 "fan_inter": "",
