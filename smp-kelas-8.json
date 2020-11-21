@@ -2,107 +2,79 @@
    "data": [
         {
         "id":1,
-        "judul":"Kelas 06 SD Pendidikan Agama Kristen dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru.pdf"
+        "judul":"Kelas 08 SMP Matematika Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Matematika_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Matematika_Guru_2017.pdf"
         },
         
         {
         "id":2,
-        "judul":"Kelas 06 SD Tematik 1 Selamatkan Makhluk Hidup Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_1_Selamatkan_Makhluk_Hidup_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_1_Selamatkan_Makhluk_Hidup_Guru.pdf"
+        "judul":"Kelas 08 SMP Pendidikan Agama Hindu dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":3,
-        "judul":"Kelas 06 SD Tematik 3 Tokoh dan Penemuan Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_3_Tokoh_dan_Penemuan_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_3_Tokoh_dan_Penemuan_Guru.pdf"
+        "judul":"Kelas 08 SMP Pendidikan Agama Katolik dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":4,
-        "judul":"Kelas 06 SD Tematik 5 Wirausaha Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_5_Wirausaha_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_5_Wirausaha_Guru.pdf"
+        "judul":"Kelas 08 SMP Ilmu Pengetahuan Sosial IPS Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Ilmu_Pengetahuan_Sosial_IPS_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Ilmu_Pengetahuan_Sosial_IPS_Guru_2017.pdf"
         },
         
         {
         "id":5,
-        "judul":"Kelas 06 SD Tematik 9 Menjelajah Angkasa Luar Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_9_Menjelajah_Angkasa_Luar_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_9_Menjelajah_Angkasa_Luar_Guru.pdf"
+        "judul":"Kelas 08 SMP Pendidikan Agama Khonghucu dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":6,
-        "judul":"Kelas 06 SD Tematik 8 Bumiku Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_8_Bumiku_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_8_Bumiku_Guru.pdf"
+        "judul":"Kelas 08 SMP Pendidikan Agama Islam dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":7,
-        "judul":"Kelas 06 SD Tematik 6 Menuju Masyarakat Sehat Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_6_Menuju_Masyarakat_Sehat_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_6_Menuju_Masyarakat_Sehat_Guru.pdf"
+        "judul":"Kelas 08 SMP Pendidikan Agama Kristen dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":8,
-        "judul":"Kelas 06 SD Pendidikan Agama Khonghucu dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru.pdf"
+        "judul":"Kelas 08 SMP Pendidikan Agama Buddha dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":9,
-        "judul":"Kelas 06 SD Tematik 4 Globalisasi Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_4_Globalisasi_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_4_Globalisasi_Guru.pdf"
+        "judul":"Kelas 08 SMP Bahasa Indonesia Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Bahasa_Indonesia_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Bahasa_Indonesia_Guru_2017.pdf"
         },
         
         {
         "id":10,
-        "judul":"Kelas 06 SD Pendidikan Agama Islam dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru.pdf"
+        "judul":"Kelas 08 SMP Bahasa Inggris Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Bahasa_Inggris_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Bahasa_Inggris_Guru_2017.pdf"
         },
         
         {
         "id":11,
-        "judul":"Kelas 06 SD Pendidikan Agama Katolik dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru.pdf"
-        },
-        
-        {
-        "id":12,
-        "judul":"Kelas 06 SD Tematik 2 Persatuan Dalam Perbedaan Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_2_Persatuan_Dalam_Perbedaan_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_2_Persatuan_Dalam_Perbedaan_Guru.pdf"
-        },
-        
-        {
-        "id":13,
-        "judul":"Kelas 06 SD Pendidikan Agama Buddha dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru.pdf"
-        },
-        
-        {
-        "id":14,
-        "judul":"Kelas 06 SD Pendidikan Agama Hindu dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru.pdf"
-        },
-        
-        {
-        "id":15,
-        "judul":"Kelas 06 SD Tematik 7 Kepemimpinan Guru",
-        "image":"https://archive.org/download/kelas-06-sd-pendidikan-agama-khonghucu-dan-budi-pekerti-guru-thumb/Kelas_06_SD_Tematik_7_Kepemimpinan_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-06-sd-pendidikan-agama-buddha-dan-budi-pekerti-guru/Kelas_06_SD_Tematik_7_Kepemimpinan_Guru.pdf"
+        "judul":"Kelas 08 SMP Pendidikan Jasmani Olahraga Kesehatan Penjasorkes Guru 2017",
+        "image":"https://archive.org/download/kelas-08-smp-matematika-guru-2017-thumb/Kelas_08_SMP_Pendidikan_Jasmani_Olahraga_Kesehatan_Penjasorkes_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-08-smp-matematika-guru-2017/Kelas_08_SMP_Pendidikan_Jasmani_Olahraga_Kesehatan_Penjasorkes_Guru_2017.pdf"
         }
     ],
     
