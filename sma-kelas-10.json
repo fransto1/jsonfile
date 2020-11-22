@@ -2,107 +2,58 @@
    "data": [
         {
         "id":1,
-        "judul":"Kelas 09 SMP Pendidikan Agama Katolik dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru.pdf"
+        "judul":"Kelas 10 SMA Bahasa Inggris Guru 2017",
+        "image":"https://archive.org/download/kelas-10-sma-pendidikan-agama-kristen-dan-budi-pekerti-guru-2017-thumb/Kelas_10_SMA_Bahasa_Inggris_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-sma-pendidikan-jasmani-olahraga-kesehatan-penjasorkes-guru-2017/Kelas_10_SMA_Bahasa_Inggris_Guru_2017.pdf"
         },
         
         {
         "id":2,
-        "judul":"Kelas 09 SMP Pendidikan Agama Hindu dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru.pdf"
+        "judul":"Kelas 10 SMA Pendidikan Agama Katolik dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-10-sma-pendidikan-agama-kristen-dan-budi-pekerti-guru-2017-thumb/Kelas_10_SMA_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-sma-pendidikan-jasmani-olahraga-kesehatan-penjasorkes-guru-2017/Kelas_10_SMA_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":3,
-        "judul":"Kelas 09 SMP Pendidikan Agama Buddha dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru.pdf"
+        "judul":"Kelas 10 SMA Pendidikan Jasmani Olahraga Kesehatan Penjasorkes Guru 2017",
+        "image":"https://archive.org/download/kelas-10-sma-pendidikan-agama-kristen-dan-budi-pekerti-guru-2017-thumb/Kelas_10_SMA_Pendidikan_Jasmani_Olahraga_Kesehatan_Penjasorkes_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-sma-pendidikan-jasmani-olahraga-kesehatan-penjasorkes-guru-2017/Kelas_10_SMA_Pendidikan_Jasmani_Olahraga_Kesehatan_Penjasorkes_Guru_2017.pdf"
         },
         
         {
         "id":4,
-        "judul":"Kelas 09 SMP Pendidikan Agama Khonghucu dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru.pdf"
+        "judul":"Kelas 10 SMA Pendidikan Agama Khonghucu dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-10-sma-pendidikan-agama-kristen-dan-budi-pekerti-guru-2017-thumb/Kelas_10_SMA_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-sma-pendidikan-jasmani-olahraga-kesehatan-penjasorkes-guru-2017/Kelas_10_SMA_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":5,
-        "judul":"Kelas 09 SMP Bahasa Inggris Think Globally Act Locally Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Bahasa_Inggris_Think_Globally_Act_Locally_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Bahasa_Inggris_Think_Globally_Act_Locally_Guru.pdf"
+        "judul":"Kelas 10 SMA Pendidikan Agama Islam dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-10-sma-pendidikan-agama-kristen-dan-budi-pekerti-guru-2017-thumb/Kelas_10_SMA_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-sma-pendidikan-jasmani-olahraga-kesehatan-penjasorkes-guru-2017/Kelas_10_SMA_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":6,
-        "judul":"Kelas 09 SMP Ilmu Pengetahuan Sosial Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Ilmu_Pengetahuan_Sosial_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Ilmu_Pengetahuan_Sosial_Guru.pdf"
+        "judul":"Kelas 10 SMA Matematika Guru 2017",
+        "image":"https://archive.org/download/kelas-10-sma-pendidikan-agama-kristen-dan-budi-pekerti-guru-2017-thumb/Kelas_10_SMA_Matematika_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-sma-pendidikan-jasmani-olahraga-kesehatan-penjasorkes-guru-2017/Kelas_10_SMA_Matematika_Guru_2017.pdf"
         },
         
         {
         "id":7,
-        "judul":"Kelas 09 SMP Prakarya Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Prakarya_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Prakarya_Guru.pdf"
+        "judul":"Kelas 10 SMA Pendidikan Agama Kristen dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-10-sma-pendidikan-agama-kristen-dan-budi-pekerti-guru-2017-thumb/Kelas_10_SMA_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-sma-pendidikan-jasmani-olahraga-kesehatan-penjasorkes-guru-2017/Kelas_10_SMA_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2017.pdf"
         },
         
         {
         "id":8,
-        "judul":"Kelas 09 SMP Pendidikan Jasmani Olah Raga dan Kesehatan Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Pendidikan_Jasmani_Olah_Raga_dan_Kesehatan_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Pendidikan_Jasmani_Olah_Raga_dan_Kesehatan_Guru.pdf"
-        },
-        
-        {
-        "id":9,
-        "judul":"Kelas 09 SMP Bahasa Indonesia Wahana Pengetahuan Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Bahasa_Indonesia_Wahana_Pengetahuan_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Bahasa_Indonesia_Wahana_Pengetahuan_Guru.pdf"
-        },
-        
-        {
-        "id":10,
-        "judul":"Kelas 09 SMP Pendidikan Agama Islam dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru.pdf"
-        },
-        
-        {
-        "id":11,
-        "judul":"Kelas 09 SMP Seni Budaya Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Seni_Budaya_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Seni_Budaya_Guru.pdf"
-        },
-        
-        {
-        "id":12,
-        "judul":"Kelas 09 SMP Ilmu Pengetahuan Alam Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Ilmu_Pengetahuan_Alam_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Ilmu_Pengetahuan_Alam_Guru.pdf"
-        },
-        
-        {
-        "id":13,
-        "judul":"Kelas 09 SMP Pendidikan Pancasila dan Kewarganegaraan Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Pendidikan_Pancasila_dan_Kewarganegaraan_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Pendidikan_Pancasila_dan_Kewarganegaraan_Guru.pdf"
-        },
-        
-        {
-        "id":14,
-        "judul":"Kelas 09 SMP Matematika Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Matematika_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Matematika_Guru.pdf"
-        },
-        
-        {
-        "id":15,
-        "judul":"Kelas 09 SMP Pendidikan Agama Kristen dan Budi Pekerti Guru",
-        "image":"https://archive.org/download/kelas-09-smp-pendidikan-agama-hindu-dan-budi-pekerti-guru-thumb/Kelas_09_SMP_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru-thumb.jpg",
-        "pdf":"https://archive.org/download/kelas-09-smp-pendidikan-agama-islam-dan-budi-pekerti-guru/Kelas_09_SMP_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru.pdf"
+        "judul":"Kelas 10 SMA Bahasa Indonesia Guru 2017",
+        "image":"https://archive.org/download/kelas-10-sma-pendidikan-agama-kristen-dan-budi-pekerti-guru-2017-thumb/Kelas_10_SMA_Bahasa_Indonesia_Guru_2017-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-sma-pendidikan-jasmani-olahraga-kesehatan-penjasorkes-guru-2017/Kelas_10_SMA_Bahasa_Indonesia_Guru_2017.pdf"
         }
     ],
     
@@ -119,7 +70,7 @@
         
                 "pub_id": "",
                 "admob_app_id": "",
-                "admob_inter": "ca-app-pub-5303627416733554/1671931904",
+                "admob_inter": "",
                 "admob_native": "",
         
                 "fan_inter": "",
