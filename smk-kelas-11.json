@@ -1,0 +1,41 @@
+{
+   "data": [
+        {
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },
+        
+        
+    ],
+    
+    
+   
+		
+    "Iklan": 
+		[
+				{
+                "status": "0",
+                "link": "https://play.google.com/store/apps/details?id=",
+                "pengaturan_iklan":"0",
+                "startappid":"205319473",
+        
+                "pub_id": "",
+                "admob_app_id": "",
+                "admob_inter": "",
+                "admob_native": "",
+        
+                "fan_inter": "",
+                "fan_banner": "",
+                
+                "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+                "interval":0,
+                "version_app":1,
+                "hpk":"asurannsi, acne, pendidikan, children"
+        
+                }
+		]
+		
+
+}
