@@ -2,12 +2,259 @@
    "data": [
         {
         "id":1,
+        "judul":"Kelas 10 SMK Surveying 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Surveying_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Surveying_1.pdf"
+        },
+	   
+	{
+        "id":2,
+        "judul":"Kelas 10 SMK Public Relations 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Public_Relations_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Public_Relations_1.pdf"
+        },   
+        
+        {
+        "id":3,
+        "judul":"Kelas 10 SMK Teknik Dasar Pengerjaan Logam 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Logam_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Logam_1.pdf"
+        },  
+	   
+        {
+        "id":4,
+        "judul":"Kelas 10 SMK Simulasi Digital 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Simulasi_Digital_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Simulasi_Digital_1.pdf"
+        },   
+        
+	{
+        "id":5,
+        "judul":"Kelas 10 SMK Mekanika Teknik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Mekanika_Teknik_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Mekanika_Teknik_1.pdf"
+        },   
+        
+	{
+        "id":6,
+        "judul":"Kelas 10 SMK Sistem Operasi 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Sistem_Operasi_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Sistem_Operasi_1.pdf"
+        },   
+        
+	{
+        "id":7,
+        "judul":"Kelas 10 SMK Hambatan Pengeboran dan Pemancingan",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Hambatan_Pengeboran_dan_Pemancingan-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Hambatan_Pengeboran_dan_Pemancingan.pdf"
+        },   
+        
+	{
+        "id":8,
+        "judul":"Kelas 10 SMK Gambar Teknik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Gambar_Teknik_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Gambar_Teknik_1.pdf"
+        },   
+        
+	{
+        "id":9,
+        "judul":"Kelas 10 SMK Prakarya dan Kewirausahaan 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Prakarya_dan_Kewirausahaan_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Prakarya_dan_Kewirausahaan_1.pdf"
+        },   
+        
+	{
+        "id":10,
+        "judul":"Kelas 10 SMK Bangunan dan Stabilitas Kapal Perikanan 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Bangunan_dan_Stabilitas_Kapal_Perikanan_2-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Bangunan_dan_Stabilitas_Kapal_Perikanan_2.pdf"
+        },   
+        
+	{
+        "id":11,
+        "judul":"Kelas 10 SMK Geologi Dasar 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Geologi_Dasar_2-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Geologi_Dasar_2.pdf"
+        },   
+        
+	{
+        "id":12,
+        "judul":"Kelas 10 SMK Dasar dan Pengukuran Listrik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Dasar_dan_Pengukuran_Listrik_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Dasar_dan_Pengukuran_Listrik_1.pdf"
+        },   
+        
+	{
+        "id":13,
+        "judul":"Kelas 10 SMK Pengetahuan Teater 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Pengetahuan_Teater_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Pengetahuan_Teater_1.pdf"
+        },   
+        
+	{
+        "id":14,
+        "judul":"Kelas 10 SMK Analisis Kimia Dasar 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Analisis_Kimia_Dasar_2-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Analisis_Kimia_Dasar_2.pdf"
+        },   
+        
+	{
+        "id":15,
+        "judul":"Kelas 10 SMK Teknik Dasar Pengerjaan Non Logam 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Logam_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Logam_1.pdf"
+        },   
+        
+	{
+        "id":16,
+        "judul":"Kelas 10 SMK Sistem Kontrol Elektro Pneumatik 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Sistem_Kontrol_Elektro_Pneumatik_2-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Sistem_Kontrol_Elektro_Pneumatik_2.pdf"
+        },   
+        
+	{
+        "id":17,
+        "judul":"Kelas 10 SMK Rekayasa dan Pemodelan Furniture 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Rekayasa_dan_Pemodelan_Furniture_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Rekayasa_dan_Pemodelan_Furniture_1.pdf"
+        },   
+        
+	{
+        "id":18,
+        "judul":"Kelas 10 SMK Pekerjaan Dasar Elektromekanik",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Pekerjaan_Dasar_Elektromekanik-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Pekerjaan_Dasar_Elektromekanik.pdf"
+        },   
+        
+	{
+        "id":1,
         "judul":"",
         "image":"",
         "pdf":""
-        },
+        },   
         
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
         
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },   
+        
+	    
+	   
+	   
     ],
     
     
