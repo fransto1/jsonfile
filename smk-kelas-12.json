@@ -2,12 +2,95 @@
    "data": [
         {
         "id":1,
-        "judul":"",
-        "image":"",
-        "pdf":""
+        "judul":"Kelas 12 SMK Instalasi Motor Listrik 6",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Instalasi_Motor_Listrik_6-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Instalasi_Motor_Listrik_6.pdf"
         },
         
+        {
+        "id":2,
+        "judul":"Kelas 12 SMK Teknik Pemesinan CNC Dasar 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Teknik_Pemesinan_CNC_Dasar_5-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Teknik_Pemesinan_CNC_Dasar_5.pdf"
+        },
         
+        {
+        "id":3,
+        "judul":"Kelas 12 SMK Pengukuran dan Perpetaan Digital 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Pengukuran_dan_Perpetaan_Digital_5-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Pengukuran_dan_Perpetaan_Digital_5.pdf"
+        },
+        
+        {
+        "id":4,
+        "judul":"Kelas 12 SMK Pemanenan Hasil Hutan 6",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Pemanenan_Hasil_Hutan_6-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Pemanenan_Hasil_Hutan_6.pdf"
+        },
+        
+        {
+        "id":5,
+        "judul":"Kelas 12 SMK Teknik Pemesinan Gerinda 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Teknik_Pemesinan_Gerinda_5-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Teknik_Pemesinan_Gerinda_5.pdf"
+        },
+        
+        {
+        "id":7,
+        "judul":"Kelas 12 SMK Sistem Kontrol Elektro Pneumatik 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Sistem_Kontrol_Elektro_Pneumatik_5-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Sistem_Kontrol_Elektro_Pneumatik_5.pdf"
+        },
+        
+        {
+        "id":8,
+        "judul":"Kelas 12 SMK Gambar Teknik Mesin 1",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Gambar_Teknik_Mesin_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Gambar_Teknik_Mesin_1.pdf"
+        },
+        
+        {
+        "id":9,
+        "judul":"Kelas 12 SMK Agroforestry 6",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Agroforestry_6-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Agroforestry_6.pdf"
+        },
+        
+        {
+        "id":10,
+        "judul":"Kelas 12 SMK Animasi 2D 1",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Animasi_2D_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Animasi_2D_1.pdf"
+        },
+        
+        {
+        "id":11,
+        "judul":"Kelas 12 SMK Pemanenan Hasil Hutan 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Pemanenan_Hasil_Hutan_5-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Pemanenan_Hasil_Hutan_5.pdf"
+        },
+        
+        {
+        "id":12,
+        "judul":"Kelas 12 SMK Agroforestry 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Agroforestry_5-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Agroforestry_5.pdf"
+        },
+        
+        {
+        "id":13,
+        "judul":"Kelas 12 SMK Pengukuran dan Perpetaan Digital 6",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Pengukuran_dan_Perpetaan_Digital_6-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Pengukuran_dan_Perpetaan_Digital_6.pdf"
+        },
+        
+        {
+        "id":14,
+        "judul":"Kelas 12 SMK Instalasi Motor Listrik 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Instalasi_Motor_Listrik_5-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Instalasi_Motor_Listrik_5.pdf"
+        }
+	   
     ],
     
     
