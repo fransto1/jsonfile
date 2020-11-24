@@ -2,11 +2,167 @@
    "data": [
         {
         "id":1,
+        "judul":"Kelas 11 SMK Sistem Kontrol Elektro Mekanik Elektronik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Sistem_Kontrol_Elektro_Mekanik_Elektronik_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Sistem_Kontrol_Elektro_Mekanik_Elektronik_1.pdf"
+        },
+        
+	{
+        "id":2,
+        "judul":"Kelas 11 SMK Teknik Kerja Sekrol 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Teknik_Kerja_Sekrol_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Teknik_Kerja_Sekrol_1.pdf"
+        },
+        
+	{
+        "id":3,
+        "judul":"Kelas 11 SMK Traktor Pertanian 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Traktor_Pertanian_3-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Traktor_Pertanian_3.pdf"
+        },
+        
+	{
+        "id":4,
+        "judul":"Kelas 11 SMK Seni Lukis Realis 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Seni_Lukis_Realis_2-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Seni_Lukis_Realis_2.pdf"
+        },
+        
+	{
+        "id":5,
+        "judul":"Kelas 11 SMK Perekayasaan Sistem Radio dan Televisi 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Perekayasaan_Sistem_Radio_dan_Televisi_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Perekayasaan_Sistem_Radio_dan_Televisi_1.pdf"
+        },
+        
+	{
+        "id":6,
+        "judul":"Kelas 11 SMK Basis Data 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Basis_Data_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Basis_Data_1.pdf"
+        },
+        
+	{
+        "id":7,
+        "judul":"Kelas 11 SMK Pengukuran dan Pemetaan Hutan 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Pengukuran_dan_Pemetaan_Hutan_3-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Pengukuran_dan_Pemetaan_Hutan_3.pdf"
+        },
+        
+	{
+        "id":8,
+        "judul":"Kelas 11 SMK Pengukuran dan Pemetaan Hutan 4",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Pengukuran_dan_Pemetaan_Hutan_4-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Pengukuran_dan_Pemetaan_Hutan_4.pdf"
+        },
+        
+	{
+        "id":9,
+        "judul":"Kelas 11 SMK Boga Dasar",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Boga_Dasar-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Boga_Dasar.pdf"
+        },
+        
+	{
+        "id":10,
+        "judul":"Kelas 11 SMK Konstruksi Reaktor Biogas 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Konstruksi_Reaktor_Biogas_2-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Konstruksi_Reaktor_Biogas_2.pdf"
+        },
+        
+	{
+        "id":11,
+        "judul":"Kelas 11 SMK Komunikasi Data & Interface 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Komunikasi_Data_%26_Interface_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Komunikasi_Data_%26_Interface_1.pdf"
+        },
+        
+	{
+        "id":12,
+        "judul":"Kelas 11 SMK Teknik Industri Peralatan Gudang 4",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Teknik_Industri_Peralatan_Gudang_4-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Teknik_Industri_Peralatan_Gudang_4.pdf"
+        },
+        
+	{
+        "id":13,
+        "judul":"Kelas 11 SMK Perawatan Engine dan Unit Alat Berat 6",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Perawatan_Engine_dan_Unit_Alat_Berat_6-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Perawatan_Engine_dan_Unit_Alat_Berat_6.pdf"
+        },
+        
+	{
+        "id":14,
+        "judul":"Kelas 11 SMK Pengolahan Diversifikasi Hasil Perikanan 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Pengolahan_Diversifikasi_Hasil_Perikanan_3-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Pengolahan_Diversifikasi_Hasil_Perikanan_3.pdf"
+        },
+        
+	{
+        "id":15,
+        "judul":"Kelas 11 SMK Pemeliharaan Mesin Kendaraan Ringan 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Pemeliharaan_Mesin_Kendaraan_Ringan_1-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Pemeliharaan_Mesin_Kendaraan_Ringan_1.pdf"
+        },
+        
+	{
+        "id":16,
+        "judul":"Kelas 11 SMK Teknik Pengukuran dan Besaran Proses 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Teknik_Pengukuran_dan_Besaran_Proses_2-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Teknik_Pengukuran_dan_Besaran_Proses_2.pdf"
+        },
+        
+	{
+        "id":17,
+        "judul":"Kelas 11 SMK Konservasi Tanah dan Air 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Konservasi_Tanah_dan_Air_3-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Konservasi_Tanah_dan_Air_3.pdf"
+        },
+        
+	{
+        "id":18,
+        "judul":"Kelas 11 SMK Dasar Analisis Fisikokimia 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Dasar_Analisis_Fisikokimia_3-thumb.jpg",
+        "pdf":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Dasar_Analisis_Fisikokimia_3.pdf"
+        },
+        
+	{
+        "id":1,
         "judul":"",
         "image":"",
         "pdf":""
         },
         
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        },
+        
+	{
+        "id":1,
+        "judul":"",
+        "image":"",
+        "pdf":""
+        }
+        
+	   
+	   
         
     ],
     
