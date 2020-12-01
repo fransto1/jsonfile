@@ -4,13 +4,13 @@
         {
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
-        "interid": "ca-app-pub-8074230319419198/4554857297",
-        "nativeid": "ca-app-pub-8074230319419198/1928693951",
-        "bannerid":"",
-        "rewardid":"",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "bannerid":"ca-app-pub-3940256099942544/6300978111",
+        "rewardid":"ca-app-pub-3940256099942544/5224354917",
 
         "pengaturan_iklan":"1",
-        "interval": 1,
+        "interval": 0,
 
         "startappid":"12345678",
 
