@@ -238,26 +238,7 @@
     "id_pdf":"016",
     "nama_cat":"SD",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"    
-    },
-
-    {
-    "id":17,
-    "judul":"Kurikulum 2013 SD Kelas 1 (Siswa)",
-    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/2017/Kelas_01_SD_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Siswa_2017-thumb.jpg",
-    "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/Kelas_01_SD_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Siswa_2017.pdf"
-    "id_pdf":"016",
-    "nama_cat":"SD",
-    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"    
-    },
-
-    {
-    "id":17,
-    "judul":"Kurikulum 2013 SD Kelas 1 (Siswa)",
-    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/2017/Kelas_01_SD_Tematik_5_Pengalamanku_Siswa_2017-thumb.jpg",
-    "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/Kelas_01_SD_Tematik_5_Pengalamanku_Siswa_2017.pdf"
-    "id_pdf":"016",
-    "nama_cat":"SD",
-    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"    
     }
+
 ]
 }
