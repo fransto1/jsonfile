@@ -27,7 +27,6 @@
         "hpk_admob3":"",
         "hpk_admob4":"",
         "hpk_admob5":""
-  
 
         }
     ],
@@ -69,8 +68,7 @@
       "nama_cat": "SMA",
       "gambar": "https://bukusekolahdigital.com/data/2013/kelas_10sma/siswa/cover/Kelas_10_SMA_Prakarya_dan_Kewirausahaan_Siswa-thumb.jpg"
     
-    }
-    ,
+    },
     {
       "id": 4,
       "nama_cat": "SMK",
@@ -171,8 +169,6 @@
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_6_Lingkungan_Bersih_Sehat_dan_Asri_Guru_2017.pdf",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
   }
-  
-    
     
 ]
 }
