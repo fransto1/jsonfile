@@ -165,7 +165,7 @@
     "id":9,
     "id_pdf":"009",
     "nama_cat":"SD",
-    "nama_penulis":"Siti Wachidah, Asep Gunawan",
+    "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 6 Lingkungan Bersih Sehat dan Asri Guru 2017",
     "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_6_Lingkungan_Bersih_Sehat_dan_Asri_Guru_2017-thumb.jpg",
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_6_Lingkungan_Bersih_Sehat_dan_Asri_Guru_2017.pdf"
@@ -178,6 +178,7 @@
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_3_Kegiatanku_Guru_2017.pdf"
     "id_pdf":"010",
     "nama_cat":"SD",
+    "nama_penulis":"",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan" 
     },
 
@@ -188,6 +189,7 @@
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_4_Keluargaku_Guru_2017.pdf"
     "id_pdf":"011",
     "nama_cat":"SD",
+        "nama_penulis":"",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan" 
     },
     {
@@ -197,6 +199,7 @@
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_1_Diriku_Guru_2017.pdf"
     "id_pdf":"012",
     "nama_cat":"SD",
+        "nama_penulis":"",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"    
     },
 
@@ -207,6 +210,7 @@
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017.pdf"
     "id_pdf":"013",
     "nama_cat":"SD",
+        "nama_penulis":"",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"     
     },
 
@@ -217,6 +221,7 @@
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_7_Benda_Hewan_&_Tanaman_di_Sekitarku_Guru_2017.pdf"
     "id_pdf":"014",
     "nama_cat":"SD",
+        "nama_penulis":"",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"     
     },
         
@@ -227,6 +232,7 @@
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_8_Peristiwa_Alam_Guru_2017.pdf"
     "id_pdf":"015",
     "nama_cat":"SD",
+        "nama_penulis":"",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
     },
 
@@ -237,8 +243,10 @@
     "pdf":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/Kelas_01_SD_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Siswa_2017.pdf"
     "id_pdf":"016",
     "nama_cat":"SD",
+        "nama_penulis":"",
     "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"    
-    }
-
+    },
+    
+    
 ]
 }
