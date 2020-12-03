@@ -81,7 +81,7 @@
 [
   {
     "id":1,
-    "id_link":"001",
+    "id_pdf":"001",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Pendidikan Agama Islam dan Budi Pekerti Guru 2017",
@@ -91,7 +91,7 @@
   },
   {
     "id":2,
-    "id_link":"002",
+    "id_pdf":"002",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 5 Pengalamanku Guru 2017",
@@ -101,7 +101,7 @@
   },
   {
     "id":3,
-    "id_link":"003",
+    "id_pdf":"003",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Pendidikan Agama Kristen dan Budi Pekerti Guru 2017",
@@ -111,7 +111,7 @@
   },
   {
     "id":4,
-    "id_link":"004",
+    "id_pdf":"004",
     "nama_cat":"SD",
     "nama_penulis":"Angi St. Anggari, Afriki, Dara Retno Wulan",
     "judul":"Kelas 01 SD Pendidikan Agama Hindu dan Budi Pekerti Guru 2017",
@@ -121,7 +121,7 @@
   },
   {
     "id":5,
-    "id_link":"005",
+    "id_pdf":"005",
     "nama_cat":"SD",
     "nama_penulis":"Maryanto, Fransiska, Heny Kusumawati",
     "judul":"Kelas 01 SD Pendidikan Agama Khonghucu dan Budi Pekerti Guru 2017",
@@ -131,7 +131,7 @@
   },
   {
     "id":6,
-    "id_link":"006",
+    "id_pdf":"006",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 2 Kegemaranku Guru 2017",
@@ -141,7 +141,7 @@
   },
   {
     "id":7,
-    "id_link":"007",
+    "id_pdf":"007",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 2 Kegemaranku Guru 2017",
@@ -151,7 +151,7 @@
   },
   {
     "id":8,
-    "id_link":"008",
+    "id_pdf":"008",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Pendidikan Agama Buddha dan Budi Pekerti Guru 2017",
@@ -161,7 +161,7 @@
   },
   {
     "id":9,
-    "id_link":"009",
+    "id_pdf":"009",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 6 Lingkungan Bersih Sehat dan Asri Guru 2017",
@@ -172,7 +172,7 @@
 	
 	{
     "id":10,
-    "id_link":"010",
+    "id_pdf":"010",
     "nama_cat":"SD",
     "nama_penulis":"",	
     "judul":"Kelas 01 SD Tematik 3 Kegiatanku Guru 2017",
@@ -183,7 +183,7 @@
 
     {
     "id":11,
-    "id_link":"011",
+    "id_pdf":"011",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 4 Keluargaku Guru 2017",
@@ -193,7 +193,7 @@
     },
     {
     "id":12,
-    "id_link":"012",
+    "id_pdf":"012",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 1 Diriku Guru 2017",
@@ -204,7 +204,7 @@
 
     {
     "id":13,
-    "id_link":"013",
+    "id_pdf":"013",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Pendidikan Agama Katolik dan Budi Pekerti Guru 2017",
@@ -215,7 +215,7 @@
 
     {
     "id":14,
-    "id_link":"014",
+    "id_pdf":"014",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 7 Benda Hewan & Tanaman di Sekitarku Guru 2017",
@@ -226,7 +226,7 @@
         
     {
     "id":15,
-    "id_link":"015",
+    "id_pdf":"015",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kelas 01 SD Tematik 8 Peristiwa Alam Guru 2017",
@@ -237,7 +237,7 @@
 
     {
     "id":16,
-    "id_link":"016",
+    "id_pdf":"016",
     "nama_cat":"SD",
     "nama_penulis":"",
     "judul":"Kurikulum 2013 SD Kelas 1 (Siswa)",
