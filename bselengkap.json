@@ -4,15 +4,15 @@
         {
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
-        "interid": "ca-app-pub-8074230319419198/4554857297",
-        "nativeid": "ca-app-pub-8074230319419198/1928693951",
-        "bannerid":"",
-        "rewardid":"",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "bannerid":"ca-app-pub-3940256099942544/6300978111",
+        "rewardid":"ca-app-pub-3940256099942544/5224354917",
 
         "pengaturan_iklan":"1",
-        "interval": 1,
+        "interval": 0,
 
-        "startappid":"12345678",
+        "startappid":"205319473",
 
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "link_update": "https://www.google.com/",
@@ -27,7 +27,6 @@
         "hpk_admob3":"",
         "hpk_admob4":"",
         "hpk_admob5":""
-  
 
         }
     ],
@@ -69,8 +68,7 @@
       "nama_cat": "SMA",
       "gambar": "https://bukusekolahdigital.com/data/2013/kelas_10sma/siswa/cover/Kelas_10_SMA_Prakarya_dan_Kewirausahaan_Siswa-thumb.jpg"
     
-    }
-    ,
+    },
     {
       "id": 4,
       "nama_cat": "SMK",
@@ -83,105 +81,171 @@
 [
   {
     "id":1,
-    "id_pdf":"001",
+    "id_link":"001",
     "nama_cat":"SD",
-    "nama_penulis":"Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf",
-    "judul":"SD I : Diriku",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_1sd/siswa/2017/Kelas_01_SD_Tematik_1_Diriku_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/Kelas_01_SD_Tematik_1_Diriku_Siswa_2017.pdf",
-    "deskripsi":"Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    "nama_penulis":"",
+    "judul":"Kelas 01 SD Pendidikan Agama Islam dan Budi Pekerti Guru 2017",
+    "image":"https://bukusekolahdigital.com/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+    "link":"http://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
   },
   {
     "id":2,
-    "id_pdf":"002",
+    "id_link":"002",
     "nama_cat":"SD",
-    "nama_penulis":"Faisal",
-    "judul":"SD II : Hidup Bersih dan Sehat",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_2sd/siswa/2017/Kelas_02_SD_Tematik_4_Hidup_Bersih_dan_Sehat_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_2sd/siswa/Kelas_02_SD_Tematik_4_Hidup_Bersih_dan_Sehat_Siswa_2017.pdf",
-    "deskripsi":"Struktur penulisan buku semaksimal mungkin diusahakan memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Mengamati, Ayo Bermain Peran, Ayo Berlatih, Ayo Bercerita, Ayo Berkreasi, Ayo Menulis, Ayo Membaca, Ayo Bernyanyi, Ayo Beraktivitas, Ayo Berdiskusi, Ayo Menanya, dan Kegiatan bersama Orang Tua"
+    "nama_penulis":"",
+    "judul":"Kelas 01 SD Tematik 5 Pengalamanku Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_5_Pengalamanku_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_5_Pengalamanku_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
   },
   {
     "id":3,
-    "id_pdf":"003",
+    "id_link":"003",
     "nama_cat":"SD",
-    "nama_penulis":"Sonya Sinyanyuri, Zaira Dartavia, ",
-    "judul":"SD III : Bumi dan Alam Semesta",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_3sd/siswa/cover/Kelas_03_SD_Tematik_8_Bumi_dan_Alam_Semesta_Siswa-thumb.jpg",
-    "link":"http://bse.mahoni.com/data/2013/kelas_3sd/siswa/Kelas_03_SD_Tematik_8_Bumi_dan_Alam_Semesta_Siswa.pdf",
-    "deskripsi":"Buku Kelas III tema 8 terdiri dari empat tema. Setiap tema terdiri dari tiga subtema dan satu kegiatan berbasis projek. Tiap subtema dan kegiatan berbasis projek diuraikan ke dalam enam pembelajaran. Satu pembelajaran dialokasikan untuk satu hari. Penjelasan lebih rinci tentang aktivitas pembelajaran dituangkan pada Buku Panduan Guru."
-  }
-  ,
+    "nama_penulis":"",
+    "judul":"Kelas 01 SD Pendidikan Agama Kristen dan Budi Pekerti Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+  },
   {
     "id":4,
-    "id_pdf":"004",
+    "id_link":"004",
     "nama_cat":"SD",
     "nama_penulis":"Angi St. Anggari, Afriki, Dara Retno Wulan",
-    "judul":"SD IV : Selalu Berhemat Energi",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_4sd/siswa/2017/Kelas_04_SD_Tematik_2_Selalu_Berhemat_Energi_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_4sd/siswa/Kelas_04_SD_Tematik_2_Selalu_Berhemat_Energi_Siswa_2017.pdf",
-    "deskripsi":"Struktur penulisan buku semaksimal mungkin diusahakan memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Mengamati, Ayo Bermain Peran, Ayo Berlatih, Ayo Bercerita, Ayo Berkreasi, Ayo Menulis, Ayo Membaca, Ayo Bernyanyi, Ayo Beraktivitas, Ayo Berdiskusi, Ayo Menanya, dan Kegiatan bersama Orang Tua"
+    "judul":"Kelas 01 SD Pendidikan Agama Hindu dan Budi Pekerti Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
   },
   {
     "id":5,
-    "id_pdf":"005",
+    "id_link":"005",
     "nama_cat":"SD",
     "nama_penulis":"Maryanto, Fransiska, Heny Kusumawati",
-    "judul":"SD V : Peristiwa Dalam kehidupan Siswa",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_5sd/siswa/2017/Kelas_05_SD_Tematik_7_Peristiawa_dalam_Kehidupan_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_5sd/siswa/Kelas_05_SD_Tematik_7_Peristiawa_dalam_Kehidupan_Siswa_2017.pdf",
-    "deskripsi":"Halaman ini berisi materi yang akan dipelajari, aktivitas belajar yang dilakukan anak bersama orang tua di rumah, serta saran agar anak dan orang tua bisa belajar dari lingkungan. Orang tua diharapkan berdiskusi dan terlibat dalam aktivitas belajar siswa. Saran-saran untuk kegiatan bersama antara siswa dan orang tua dicantumkan juga pada setiap akhir pembelajaran."
-  }
-  ,
+    "judul":"Kelas 01 SD Pendidikan Agama Khonghucu dan Budi Pekerti Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+  },
   {
     "id":6,
-    "id_pdf":"006",
+    "id_link":"006",
     "nama_cat":"SD",
-    "nama_penulis":"Afriki, Al Farani, Angie Siti Anggari ",
-    "judul":"SD VI : Kepemimpinan Siswa",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_6sd/siswa/cover/Kelas_06_SD_Tematik_7_Kepemimpinan_Siswa-thumb.jpg",
-    "link":"http://bse.mahoni.com/data/2013/kelas_6sd/siswa/Kelas_06_SD_Tematik_7_Kepemimpinan_Siswa.pdf",
-    "deskripsi":"Pada beberapa bagian dalam buku siswa ini diberikan ruang bagi siswa untuk menuliskan laporan, kesimpulan, penyelesaian soal, atau tugas lainnya. Namun, sebaiknya dalam menuliskan berbagai tugas tersebut siswa tidak terpancang pada ruang yang diberikan. Apabila dirasa kurang, siswa dapat menuliskannya pada buku tugas."
-  } ,
+    "nama_penulis":"",
+    "judul":"Kelas 01 SD Tematik 2 Kegemaranku Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_2_Kegemaranku_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_2_Kegemaranku_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+  },
   {
     "id":7,
-    "id_pdf":"007",
-    "nama_cat":"SMP",
-    "nama_penulis":"Wahono Widodo, Fida Rachmadiarti ",
-    "judul":"SMP VII : Ilmu Pengetahuan Alam",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_7smp/siswa/2017/Kelas_07_SMP_Ilmu_Pengetahuan_Alam_IPA_S2_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_7smp/siswa/Kelas_07_SMP_Ilmu_Pengetahuan_Alam_IPA_S2_Siswa_2017.pdf",
-    "deskripsi":"Sesuai dengan konsep Kurikulum 2013, buku ini disusun mengacu pada pembelajaran IPA secara terpadu dan utuh, sehingga setiap pengetahuan yang diajarkan, pembelajarannya harus dilanjutkan sampai membuat siswa terampil dalam menyajikan pengetahuan yang dikuasainya, dan bersikap sebagai makhluk yang mensyukuri anugerah alam semesta yang dikaruniakan kepadanya melalui pemanfaatan yang bertanggung jawab. "
+    "id_link":"007",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "judul":"Kelas 01 SD Tematik 2 Kegemaranku Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_2_Kegemaranku_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_2_Kegemaranku_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
   },
   {
     "id":8,
-    "id_pdf":"008",
-    "nama_cat":"SMP",
-    "nama_penulis":"Siti Wachidah, Asep Gunawan",
-    "judul":"SMP VIII : Bahasa Inggris",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_8smp/siswa/2017/Kelas_08_SMP_Bahasa_Inggris_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_8smp/siswa/Kelas_08_SMP_Bahasa_Inggris_Siswa_2017.pdf",
-    "deskripsi":"Sebagai bagian dari Kurikulum 2013 yang menekankan pentingnya keseimbangan kompetensi sikap, pengetahuan, dan keterampilan, kemampuan berbahasa Inggris dibentuk melalui pembelajaran berkelanjutan. Pembelajaran model ini dimulai dengan peningkatan kompetensi pengetahuan tentang jenis, kaidah, dan konteks suatu teks, dilanjutkan dengan kompetensi keterampilan menyajikan suatu teks tulis dan lisan, baik terencana maupun spontan dengan pelafalan dan intonasi yang tepat. Pembelajaran berkelanjutan ini bermuara pada pembentukan sikap kesantunan berbahasa. "
+    "id_link":"008",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "judul":"Kelas 01 SD Pendidikan Agama Buddha dan Budi Pekerti Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
   },
   {
     "id":9,
-    "id_pdf":"009",
-    "nama_cat":"SMP",
-    "nama_penulis":"Siti Wachidah, Asep Gunawan",
-    "judul":"SMP IX : Matematika",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_9smp/siswa/cover/Kelas_09_SMP_Matematika_Siswa_2-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_9smp/siswa/Kelas_09_SMP_Matematika_Siswa_1.pdf",
-    "deskripsi":"Buku Siswa Matematika Kelas IX SMP/MTs Kurikulum 2013 ini ditulis dengan berdasarkan pada materi dan kompetensi yang disesuaikan dengan standar internasional tersebut. Terkait materi misalnya, sejak kelas VII telah diajarkan antara lain tentang bilangan, himpunan, aljabar dan penerapannya, perbandingan, geometri, dan penyajian data. Keseimbangan antara matematika angka, matematika pola, dan bangun selalu dijaga. Kompetensi pengetahuan bukan hanya sampai memahami secara konseptual tetapi sampai ke penerapan melalui pengetahuan prosedural dalam pemecahan masalah matematika. Kompetensi keterampilan berpikir juga diasah untuk dapat memecahkan masalah yang membutuhkan pemikiran order tinggi seperti menalar pemecahan masalah melalui permodelan, pembuktian, dan perkiraan/pendekatan."
+    "id_link":"009",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "judul":"Kelas 01 SD Tematik 6 Lingkungan Bersih Sehat dan Asri Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_6_Lingkungan_Bersih_Sehat_dan_Asri_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_6_Lingkungan_Bersih_Sehat_dan_Asri_Guru_2017.link",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
   },
-  {
+	
+	{
     "id":10,
-    "id_pdf":"010",
-    "nama_cat":"SMA",
-    "nama_penulis":"Zackaria Soetedja, Dewi Suryati",
-    "judul":"SMA X : Seni Budya",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_10sma/siswa/2017/Kelas_10_SMA_Seni_Budaya_S2_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_10sma/siswa/Kelas_10_SMA_Seni_Budaya_S2_Siswa_2017.pdf",
-    "deskripsi":"Materi pembelajaran seni budaya dalam buku ini merupakan revisi dari buku seni budaya sebelumnya berisi pengetahuan, materi dan cara belajar seni di sekolah dengan guru sebagai fasilitator yang menyediakan peluang bagi peserta didik untuk menjadi pribadi yang utuh melalui pengalaman seni berdasarkan sesuatu yang dekat dengan kehidupan dan dunia kalian. "  
-  }
+    "judul":"Kelas 01 SD Tematik 3 Kegiatanku Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_3_Kegiatanku_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_3_Kegiatanku_Guru_2017.link"
+    "id_link":"010",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan" 
+    },
+
+    {
+    "id":11,
+    "judul":"Kelas 01 SD Tematik 4 Keluargaku Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_4_Keluargaku_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_4_Keluargaku_Guru_2017.link"
+    "id_link":"011",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan" 
+    },
+    {
+    "id":12,
+    "judul":"Kelas 01 SD Tematik 1 Diriku Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_1_Diriku_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_1_Diriku_Guru_2017.link"
+    "id_link":"012",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"    
+    },
+
+    {
+    "id":13,
+    "judul":"Kelas 01 SD Pendidikan Agama Katolik dan Budi Pekerti Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017.link"
+    "id_link":"013",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"     
+    },
+
+    {
+    "id":14,
+    "judul":"Kelas 01 SD Tematik 7 Benda Hewan & Tanaman di Sekitarku Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_7_Benda_Hewan_&_Tanaman_di_Sekitarku_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_7_Benda_Hewan_&_Tanaman_di_Sekitarku_Guru_2017.link"
+    "id_link":"014",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"     
+    },
+        
+    {
+    "id":15,
+    "judul":"Kelas 01 SD Tematik 8 Peristiwa Alam Guru 2017",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/2017/Kelas_01_SD_Tematik_8_Peristiwa_Alam_Guru_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/guru/Kelas_01_SD_Tematik_8_Peristiwa_Alam_Guru_2017.link"
+    "id_link":"015",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+    },
+
+    {
+    "id":16,
+    "judul":"Kurikulum 2013 SD Kelas 1 (Siswa)",
+    "image":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/2017/Kelas_01_SD_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Siswa_2017-thumb.jpg",
+    "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/Kelas_01_SD_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Siswa_2017.link"
+    "id_link":"016",
+    "nama_cat":"SD",
+    "nama_penulis":"",
+    "deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"    
+    }
+  
+    
 ]
 }
