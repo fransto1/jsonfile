@@ -4,12 +4,12 @@
         {
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
-        "interid": "ca-app-pub-3940256099942544/1033173712",
-        "nativeid": "ca-app-pub-3940256099942544/2247696110",
-        "bannerid":"ca-app-pub-3940256099942544/6300978111",
-        "rewardid":"ca-app-pub-3940256099942544/5224354917",
+        "interid": "ca-app-pub-5303627416733554/6102851684",
+        "nativeid": "ca-app-pub-5303627416733554/8537443337",
+        "bannerid":"ca-app-pub-5303627416733554/4345905127",
+        "rewardid":"ca-app-pub-5303627416733554/9309607136",
 
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"0",
         "interval": 0,
 
         "startappid":"205319473",
@@ -18,8 +18,8 @@
         "link_update": "https://www.google.com/",
         "version_app":1,
         
-        "fan_inter":"981545408591412_999151030164183",
-        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_inter":"",
+        "fan_banner_native":"",
         "fan_banner":"",
 
         "hpk_admob1":"",
