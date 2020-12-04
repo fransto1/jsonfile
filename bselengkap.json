@@ -1692,8 +1692,756 @@
 		"nama_cat":"SMA",
 		"nama_penulis":"",
 		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
-		}
+		},
 	
+	
+			{
+        "id":149,
+        "judul":"Kelas 10 SMK Surveying 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Surveying_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Surveying_1.pdf",
+        "id_pdf":"149",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+	   
+		{
+        "id":150,
+        "judul":"Kelas 10 SMK Public Relations 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Public_Relations_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Public_Relations_1.pdf",
+        "id_pdf":"150",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+        {
+        "id":151,
+        "judul":"Kelas 10 SMK Teknik Dasar Pengerjaan Logam 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Logam_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Logam_1.pdf",
+        "id_pdf":"151",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},  
+	   
+        {
+        "id":152,
+        "judul":"Kelas 10 SMK Simulasi Digital 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Simulasi_Digital_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Simulasi_Digital_1.pdf",
+        "id_pdf":"152",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+		{
+        "id":153,
+        "judul":"Kelas 10 SMK Mekanika Teknik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Mekanika_Teknik_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Mekanika_Teknik_1.pdf",
+        "id_pdf":"153",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+		{
+        "id":154,
+        "judul":"Kelas 10 SMK Sistem Operasi 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Sistem_Operasi_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Sistem_Operasi_1.pdf",
+        "id_pdf":"154",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+		{
+        "id":155,
+        "judul":"Kelas 10 SMK Hambatan Pengeboran dan Pemancingan",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Hambatan_Pengeboran_dan_Pemancingan-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Hambatan_Pengeboran_dan_Pemancingan.pdf",
+        "id_pdf":"155",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+		{
+        "id":156,
+        "judul":"Kelas 10 SMK Gambar Teknik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Gambar_Teknik_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Gambar_Teknik_1.pdf",
+        "id_pdf":"156",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+		{
+        "id":157,
+        "judul":"Kelas 10 SMK Prakarya dan Kewirausahaan 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Prakarya_dan_Kewirausahaan_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Prakarya_dan_Kewirausahaan_1.pdf",
+        "id_pdf":"157",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+		{
+        "id":158,
+        "judul":"Kelas 10 SMK Bangunan dan Stabilitas Kapal Perikanan 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Bangunan_dan_Stabilitas_Kapal_Perikanan_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Bangunan_dan_Stabilitas_Kapal_Perikanan_2.pdf",
+        "id_pdf":"158",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":159,
+        "judul":"Kelas 10 SMK Geologi Dasar 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Geologi_Dasar_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Geologi_Dasar_2.pdf",
+        "id_pdf":"159",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":160,
+        "judul":"Kelas 10 SMK Dasar dan Pengukuran Listrik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Dasar_dan_Pengukuran_Listrik_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Dasar_dan_Pengukuran_Listrik_1.pdf",
+        "id_pdf":"160",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":161,
+        "judul":"Kelas 10 SMK Pengetahuan Teater 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Pengetahuan_Teater_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Pengetahuan_Teater_1.pdf",
+        "id_pdf":"161",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":162,
+        "judul":"Kelas 10 SMK Analisis Kimia Dasar 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Analisis_Kimia_Dasar_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Analisis_Kimia_Dasar_2.pdf",
+        "id_pdf":"162",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":163,
+        "judul":"Kelas 10 SMK Teknik Dasar Pengerjaan Non Logam 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Logam_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Logam_1.pdf",
+        "id_pdf":"163",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":164,
+        "judul":"Kelas 10 SMK Sistem Kontrol Elektro Pneumatik 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Sistem_Kontrol_Elektro_Pneumatik_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Sistem_Kontrol_Elektro_Pneumatik_2.pdf",
+        "id_pdf":"164",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":165,
+        "judul":"Kelas 10 SMK Rekayasa dan Pemodelan Furniture 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Rekayasa_dan_Pemodelan_Furniture_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Rekayasa_dan_Pemodelan_Furniture_1.pdf",
+        "id_pdf":"165",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":166,
+        "judul":"Kelas 10 SMK Pekerjaan Dasar Elektromekanik",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Pekerjaan_Dasar_Elektromekanik-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Pekerjaan_Dasar_Elektromekanik.pdf",
+        "id_pdf":"166",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":167,
+        "judul":"Kelas 10 SMK Teknik Dasar Pengerjaan Non Logam 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Non_Logam_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Teknik_Dasar_Pengerjaan_Non_Logam_2.pdf",
+        "id_pdf":"167",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":168,
+        "judul":"Kelas 10 SMK Hukum Maritim 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Hukum_Maritim_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Hukum_Maritim_1.pdf",
+        "id_pdf":"168",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":169,
+        "judul":"Kelas 10 SMK Dasar-Dasar Budidaya Tanaman 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Dasar-Dasar_Budidaya_Tanaman_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Pembiakan_Tanaman_1.pdf",
+        "id_pdf":"169",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":170,
+        "judul":"Kelas 10 SMK Korespondensi 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Korespondensi_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Korespondensi_1.pdf",
+        "id_pdf":"170",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":171,
+        "judul":"Kelas 10 SMK Teknologi Mekanik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Teknologi_Mekanik_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Teknologi_Mekanik_1.pdf",
+        "id_pdf":"171",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":172,
+        "judul":"Kelas 10 SMK Teknologi Dasar Otomotif 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Teknologi_Dasar_Otomotif_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Teknologi_Dasar_Otomotif_2.pdf",
+        "id_pdf":"172",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":173,
+        "judul":"Kelas 10 SMK Anatomi Hewan 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Anatomi_Hewan_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Anatomi_Hewan_2.pdf",
+        "id_pdf":"173",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":174,
+        "judul":"Kelas 10 SMK Sanitasi Hygiene dan Keselamatan Kerja Bidang Makanan 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Sanitasi_Hygiene_dan_Keselamatan_Kerja_Bidang_Makanan_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Sanitasi_Hygiene_dan_Keselamatan_Kerja_Bidang_Makanan_1.pdf",
+        "id_pdf":"174",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":175,
+        "judul":"Kelas 10 SMK Peralatan dan Mesin Pengerjaan Kayu 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Peralatan_dan_Mesin_Pengerjaan_Kayu_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Peralatan_dan_Mesin_Pengerjaan_Kayu_1.pdf",
+        "id_pdf":"175",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":176,
+        "judul":"Kelas 10 SMK Konsep Dasar Kapal 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Konsep_Dasar_Kapal_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Konsep_Dasar_Kapal_1.pdf",
+        "id_pdf":"176",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":177,
+        "judul":"Kelas 10 SMK Perekayasaan Sistem Audio 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Perekayasaan_Sistem_Audio_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Perekayasaan_Sistem_Audio_1.pdf",
+        "id_pdf":"177",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":178,
+        "judul":"Kelas 10 SMK Dasar Teknologi Menjahit 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Dasar_Teknologi_Menjahit_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Dasar_Teknologi_Menjahit_2.pdf",
+        "id_pdf":"178",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":179,
+        "judul":"Kelas 10 SMK Dasar-Dasar Keselamatan di Laut 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Dasar-Dasar_Keselamatan_di_Laut_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Dasar-Dasar_Keselamatan_di_Laut_2.pdf",
+        "id_pdf":"179",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":180,
+        "judul":"Kelas 10 SMK Harmoni SATB 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Harmoni_SATB_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Harmoni_SATB_1.pdf",
+        "id_pdf":"180",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":181,
+        "judul":"Kelas 10 SMK Dasar-Dasar Pengendalian Mutu Hasil Pertanian dan Perikanan 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Dasar-Dasar_Pengendalian_Mutu_Hasil_Pertanian_dan_Perikanan_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Dasar-Dasar_Pengendalian_Mutu_Hasil_Pertanian_dan_Perikanan_2.pdf",
+        "id_pdf":"181",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":182,
+        "judul":"Kelas 10 SMK Kimia Organik 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Kimia_Organik_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Kimia_Organik_2.pdf",
+        "id_pdf":"182",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":183,
+        "judul":"Kelas 10 SMK Produksi Makanan dan Minuman Herbal 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Produksi_Makanan_dan_Minuman_Herbal_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Produksi_Makanan_dan_Minuman_Herbal_1.pdf",
+        "id_pdf":"183",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},   
+        
+	{
+        "id":184,
+        "judul":"Kelas 10 SMK Bangunan dan Stabilitas Kapal Niaga 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Bangunan_dan_Stabilitas_Kapal_Niaga_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Bangunan_dan_Stabilitas_Kapal_Niaga_2.pdf",
+        "id_pdf":"184",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+	   
+        {
+        "id":185,
+        "judul":"Kelas 10 SMK Perakitan Komputer 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb/Kelas_10_SMK_Perakitan_Komputer_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-10-smk-harmoni-satb-1/Kelas_10_SMK_Perakitan_Komputer_2.pdf",
+        "id_pdf":"185",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+	
+			{
+        "id":186,
+        "judul":"Kelas 11 SMK Sistem Kontrol Elektro Mekanik Elektronik 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Sistem_Kontrol_Elektro_Mekanik_Elektronik_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Sistem_Kontrol_Elektro_Mekanik_Elektronik_1.pdf",
+        "id_pdf":"186",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":187,
+        "judul":"Kelas 11 SMK Teknik Kerja Sekrol 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Teknik_Kerja_Sekrol_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Teknik_Kerja_Sekrol_1.pdf",
+        "id_pdf":"187",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":188,
+        "judul":"Kelas 11 SMK Traktor Pertanian 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Traktor_Pertanian_3-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Traktor_Pertanian_3.pdf",
+        "id_pdf":"188",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":189,
+        "judul":"Kelas 11 SMK Seni Lukis Realis 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Seni_Lukis_Realis_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Seni_Lukis_Realis_2.pdf",
+        "id_pdf":"189",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":190,
+        "judul":"Kelas 11 SMK Perekayasaan Sistem Radio dan Televisi 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Perekayasaan_Sistem_Radio_dan_Televisi_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Perekayasaan_Sistem_Radio_dan_Televisi_1.pdf",
+        "id_pdf":"190",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":191,
+        "judul":"Kelas 11 SMK Basis Data 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Basis_Data_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Basis_Data_1.pdf",
+        "id_pdf":"191",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":192,
+        "judul":"Kelas 11 SMK Pengukuran dan Pemetaan Hutan 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Pengukuran_dan_Pemetaan_Hutan_3-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Pengukuran_dan_Pemetaan_Hutan_3.pdf",
+        "id_pdf":"192",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":193,
+        "judul":"Kelas 11 SMK Pengukuran dan Pemetaan Hutan 4",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Pengukuran_dan_Pemetaan_Hutan_4-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Pengukuran_dan_Pemetaan_Hutan_4.pdf",
+        "id_pdf":"193",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":194,
+        "judul":"Kelas 11 SMK Boga Dasar",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Boga_Dasar-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Boga_Dasar.pdf",
+        "id_pdf":"194",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":195,
+        "judul":"Kelas 11 SMK Konstruksi Reaktor Biogas 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Konstruksi_Reaktor_Biogas_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Konstruksi_Reaktor_Biogas_2.pdf",
+        "id_pdf":"195",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":196,
+        "judul":"Kelas 11 SMK Komunikasi Data & Interface 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Komunikasi_Data_%26_Interface_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Komunikasi_Data_%26_Interface_1.pdf",
+        "id_pdf":"196",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":197,
+        "judul":"Kelas 11 SMK Teknik Industri Peralatan Gudang 4",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Teknik_Industri_Peralatan_Gudang_4-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Teknik_Industri_Peralatan_Gudang_4.pdf",
+        "id_pdf":"197",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":198,
+        "judul":"Kelas 11 SMK Perawatan Engine dan Unit Alat Berat 6",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Perawatan_Engine_dan_Unit_Alat_Berat_6-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Perawatan_Engine_dan_Unit_Alat_Berat_6.pdf",
+        "id_pdf":"198",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":199,
+        "judul":"Kelas 11 SMK Pengolahan Diversifikasi Hasil Perikanan 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Pengolahan_Diversifikasi_Hasil_Perikanan_3-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Pengolahan_Diversifikasi_Hasil_Perikanan_3.pdf",
+        "id_pdf":"199",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":200,
+        "judul":"Kelas 11 SMK Pemeliharaan Mesin Kendaraan Ringan 1",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Pemeliharaan_Mesin_Kendaraan_Ringan_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Pemeliharaan_Mesin_Kendaraan_Ringan_1.pdf",
+        "id_pdf":"200",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":201,
+        "judul":"Kelas 11 SMK Teknik Pengukuran dan Besaran Proses 2",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Teknik_Pengukuran_dan_Besaran_Proses_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Teknik_Pengukuran_dan_Besaran_Proses_2.pdf",
+        "id_pdf":"201",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":202,
+        "judul":"Kelas 11 SMK Konservasi Tanah dan Air 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Konservasi_Tanah_dan_Air_3-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Konservasi_Tanah_dan_Air_3.pdf",
+        "id_pdf":"202",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+	{
+        "id":203,
+        "judul":"Kelas 11 SMK Dasar Analisis Fisikokimia 3",
+        "image":"https://archive.org/download/kipin-mobile-pengumuman-ks-40-thumb_202011/Kelas_11_SMK_Dasar_Analisis_Fisikokimia_3-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-smk-foto-reproduksi-dan-montase-1/Kelas_11_SMK_Dasar_Analisis_Fisikokimia_3.pdf",
+        "id_pdf":"203",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+	
+			{
+        "id":204,
+        "judul":"Kelas 12 SMK Instalasi Motor Listrik 6",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Instalasi_Motor_Listrik_6-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Instalasi_Motor_Listrik_6.pdf",
+        "id_pdf":"204",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":205,
+        "judul":"Kelas 12 SMK Teknik Pemesinan CNC Dasar 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Teknik_Pemesinan_CNC_Dasar_5-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Teknik_Pemesinan_CNC_Dasar_5.pdf",
+        "id_pdf":"205",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":206,
+        "judul":"Kelas 12 SMK Pengukuran dan Perpetaan Digital 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Pengukuran_dan_Perpetaan_Digital_5-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Pengukuran_dan_Perpetaan_Digital_5.pdf",
+        "id_pdf":"206",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":207,
+        "judul":"Kelas 12 SMK Pemanenan Hasil Hutan 6",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Pemanenan_Hasil_Hutan_6-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Pemanenan_Hasil_Hutan_6.pdf",
+        "id_pdf":"207",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":208,
+        "judul":"Kelas 12 SMK Teknik Pemesinan Gerinda 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Teknik_Pemesinan_Gerinda_5-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Teknik_Pemesinan_Gerinda_5.pdf",
+        "id_pdf":"208",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":209,
+        "judul":"Kelas 12 SMK Sistem Kontrol Elektro Pneumatik 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Sistem_Kontrol_Elektro_Pneumatik_5-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Sistem_Kontrol_Elektro_Pneumatik_5.pdf",
+        "id_pdf":"209",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":210,
+        "judul":"Kelas 12 SMK Gambar Teknik Mesin 1",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Gambar_Teknik_Mesin_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Gambar_Teknik_Mesin_1.pdf",
+        "id_pdf":"210",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":211,
+        "judul":"Kelas 12 SMK Agroforestry 6",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Agroforestry_6-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Agroforestry_6.pdf",
+        "id_pdf":"211",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":212,
+        "judul":"Kelas 12 SMK Animasi 2D 1",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Animasi_2D_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Animasi_2D_1.pdf",
+        "id_pdf":"212",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":213,
+        "judul":"Kelas 12 SMK Pemanenan Hasil Hutan 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Pemanenan_Hasil_Hutan_5-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Pemanenan_Hasil_Hutan_5.pdf",
+        "id_pdf":"213",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":214,
+        "judul":"Kelas 12 SMK Agroforestry 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Agroforestry_5-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Agroforestry_5.pdf",
+        "id_pdf":"214",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":215,
+        "judul":"Kelas 12 SMK Pengukuran dan Perpetaan Digital 6",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Pengukuran_dan_Perpetaan_Digital_6-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Pengukuran_dan_Perpetaan_Digital_6.pdf",
+        "id_pdf":"215",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":216,
+        "judul":"Kelas 12 SMK Instalasi Motor Listrik 5",
+        "image":"https://archive.org/download/kelas-12-smk-sistem-kontrol-elektro-pneumatik-5-thumb/Kelas_12_SMK_Instalasi_Motor_Listrik_5-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-smk-teknik-pemesinan-cnc-dasar-5/Kelas_12_SMK_Instalasi_Motor_Listrik_5.pdf",
+        "id_pdf":"216",
+		"nama_cat":"SMK",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		}
 	
 	
 	
