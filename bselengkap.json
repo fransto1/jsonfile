@@ -1395,8 +1395,304 @@
 		"nama_cat":"SMA",
 		"nama_penulis":"",
 		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
-		}
+		},
 	
+			{
+        "id":122,
+        "judul":"Kelas 11 SMA Pendidikan Agama Hindu dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Pendidikan_Agama_Hindu_dan_Budi_Pekerti_Guru_2017.pdf",
+        "id_pdf":"122",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":123,
+        "judul":"Kelas 11 SMA Prakarya dan Kewirausahaan Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Prakarya_dan_Kewirausahaan_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Prakarya_dan_Kewirausahaan_Guru_2017.pdf",
+        "id_pdf":"123",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":124,
+        "judul":"Kelas 11 SMA Pendidikan Agama Khonghucu dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Pendidikan_Agama_Khonghucu_dan_Budi_Pekerti_Guru_2017.pdf",
+        "id_pdf":"124",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":125,
+        "judul":"Kelas 11 SMA Sejarah Indonesia Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Sejarah_Indonesia_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Sejarah_Indonesia_Guru_2017.pdf",
+        "id_pdf":"125",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":126,
+        "judul":"Kelas 11 SMA Pendidikan Agama Katolik dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_2017.pdf",
+        "id_pdf":"126",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":127,
+        "judul":"Kelas 11 SMA Pendidikan Agama Islam dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru_2017.pdf",
+        "id_pdf":"127",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":128,
+        "judul":"Kelas 11 SMA Pendidikan Agama Kristen dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2017.pdf",
+        "id_pdf":"128",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":129,
+        "judul":"Kelas 11 SMA Bahasa Indonesia Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Bahasa_Indonesia_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Bahasa_Indonesia_Guru_2017.pdf",
+        "id_pdf":"129",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":130,
+        "judul":"Kelas 11 SMA Matematika Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Matematika_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Matematika_Guru_2017.pdf",
+        "id_pdf":"130",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":131,
+        "judul":"Kelas 11 SMA PPKn Pendidikan Pancasila dan Kewarganegaraan Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_PPKn_Pendidikan_Pancasila_dan_Kewarganegaraan_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_PPKn_Pendidikan_Pancasila_dan_Kewarganegaraan_Guru_2017.pdf",
+        "id_pdf":"131",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":132,
+        "judul":"Kelas 11 SMA Pendidikan Jasmani Olahraga Kesehatan Penjasorkes Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Pendidikan_Jasmani_Olahraga_Kesehatan_Penjasorkes_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Pendidikan_Jasmani_Olahraga_Kesehatan_Penjasorkes_Guru_2017.pdf",
+        "id_pdf":"132",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":133,
+        "judul":"Kelas 11 SMA Pendidikan Agama Buddha dan Budi Pekerti Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru_2017.pdf",
+        "id_pdf":"133",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":134,
+        "judul":"Kelas 11 SMA Seni Budaya Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Seni_Budaya_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Seni_Budaya_Guru_2017.pdf",
+        "id_pdf":"134",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":135,
+        "judul":"Kelas 11 SMA Bahasa Inggris Guru 2017",
+        "image":"https://archive.org/download/kelas-11-sma-seni-budaya-guru-2017-thumb/Kelas_11_SMA_Bahasa_Inggris_Guru_2017-thumb.jpg",
+        "link":"https://archive.org/download/kelas-11-sma-sejarah-indonesia-guru-2017/Kelas_11_SMA_Bahasa_Inggris_Guru_2017.pdf",
+        "id_pdf":"135",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+	
+			{
+        "id":136,
+        "judul":"Kelas 12 SMA Pendidikan Agama Islam dan Budi Pekerti Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Pendidikan_Agama_Islam_dan_Budi_Pekerti_Guru.pdf",
+        "id_pdf":"136",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":137,
+        "judul":"Kelas 12 SMA Matematika Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Matematika_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Matematika_Guru.pdf",
+        "id_pdf":"137",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":138,
+        "judul":"Kelas 12 SMA Prakarya dan Kewirausahaan Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Prakarya_dan_Kewirausahaan_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Prakarya_dan_Kewirausahaan_Guru.pdf",
+        "id_pdf":"138",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":139,
+        "judul":"Kelas 12 SMA Seni Budaya Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Seni_Budaya_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Seni_Budaya_Guru.pdf",
+        "id_pdf":"139",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":140,
+        "judul":"Kelas 12 SMA Bahasa Inggris Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Bahasa_Inggris_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Bahasa_Inggris_Guru.pdf",
+        "id_pdf":"140",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":141,
+        "judul":"Kelas 12 SMA Bahasa Indonesia Ekspresi Diri dan Akademik Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Bahasa_Indonesia_Ekspresi_Diri_dan_Akademik_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Bahasa_Indonesia_Ekspresi_Diri_dan_Akademik_Guru.pdf",
+        "id_pdf":"141",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":142,
+        "judul":"Kelas 12 SMA Pendidikan Agama Kristen dan Budi Pekerti Guru 2",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Pendidikan_Agama_Kristen_dan_Budi_Pekerti_Guru_2.pdf",
+        "id_pdf":"142",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":143,
+        "judul":"Kelas 12 SMA Pendidikan Agama Konghucu dan Budi Pekerti Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Pendidikan_Agama_Konghucu_dan_Budi_Pekerti_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Pendidikan_Agama_Konghucu_dan_Budi_Pekerti_Guru.pdf",
+        "id_pdf":"143",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":144,
+        "judul":"Kelas 12 SMA Sejarah Indonesia Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Sejarah_Indonesia_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Sejarah_Indonesia_Guru.pdf",
+        "id_pdf":"144",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":145,
+        "judul":"Kelas 12 SMA Pendidikan Jasmani Olahraga dan Kesehatan Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Pendidikan_Jasmani_Olahraga_dan_Kesehatan_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Pendidikan_Jasmani_Olahraga_dan_Kesehatan_Guru.pdf",
+        "id_pdf":"145",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":146,
+        "judul":"Kelas 12 SMA Pendidikan Agama Buddha dan Budi Pekerti Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Pendidikan_Agama_Buddha_dan_Budi_Pekerti_Guru.pdf",
+        "id_pdf":"146",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":147,
+        "judul":"Kelas 12 SMA Pendidikan Pancasila dan Kewarganegaraan Guru",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Pendidikan_Pancasila_dan_Kewarganegaraan_Guru-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Pendidikan_Pancasila_dan_Kewarganegaraan_Guru.pdf",
+        "id_pdf":"147",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		},
+        
+        {
+        "id":148,
+        "judul":"Kelas 12 SMA Pendidikan Agama Katolik dan Budi Pekerti Guru 1",
+        "image":"https://archive.org/download/kelas-12-sma-matematika-guru-thumb/Kelas_12_SMA_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_1-thumb.jpg",
+        "link":"https://archive.org/download/kelas-12-sma-pendidikan-jasmani-olahraga-dan-kesehatan-guru/Kelas_12_SMA_Pendidikan_Agama_Katolik_dan_Budi_Pekerti_Guru_1.pdf",
+        "id_pdf":"148",
+		"nama_cat":"SMA",
+		"nama_penulis":"",
+		"deskripsi":"Rajin membaca ya, supaya kamu pintar dan banyak wawasan"
+		}
 	
 	
 ]
