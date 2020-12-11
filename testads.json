@@ -1,0 +1,33 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "",
+        "bannerid":"",
+        "rewardid":"",
+
+        "pengaturan_iklan":"1",
+        "interval": 0,
+
+        "startappid":"205319473",
+
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "version_app":1,
+        
+        "fan_inter":"",
+        "fan_banner_native":"",
+        "fan_banner":"",
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+
+        }
+    ]
+    }
