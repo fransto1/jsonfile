@@ -1,0 +1,28 @@
+{ 
+    
+    "ppr": [
+        {
+    "status": "update",
+	"splash_image": "https://cyclope.xyz/dessy/splash/AnimeIndoV2.png",
+    "deskripsi_update": "Update AnimeIndo Terbaru yang makin Kece",
+    "link_update": "https://play.google.com/store/apps/details?id=com.DessyDev.dramakoreaterbaru.dramakoreagratis.nontondramakoreasubindo.watchkoreandrama",      
+	"appid": "",
+	"admobappid": "",
+	"bannerid": "",
+	"interid": "",
+	"nativeid": "",
+	"fan_inter": "",
+	"fan_banner_native": "",
+	"fan_banner": "",
+    "enable_startappsplash": "false",
+    "unity_id":"1497865",      
+    "startappid":"201206211",
+    "ads1": "2",
+    "hpk": "insurance, keuangan, pendidikan, forex, binomo, car, health, asuransi",
+    "api_yt":"AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
+    "webbase":"https://cinemafilmxxi.com/1/funnyvideonew/",
+    "apikey":"cda11QbXIO9Z4ly0a2khTFDPA3x6UgSVtCiYRjBqpsfL7w5neN"
+      
+        }
+    ]
+}
