@@ -9,7 +9,7 @@
         "openid":"",
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "link_update": "https://www.google.com/",
-        "interval": 1,
+        "interval": 0,
         "pengaturan_iklan":"1",
         "startappid":"",
         "version_app":1,
