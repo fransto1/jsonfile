@@ -1,20 +1,26 @@
 [
 	{
-		"appIcon": "https://image.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg",
+		"appIcon": "https://lh3.googleusercontent.com/-qe-3TuHHRnw/YIRS3L0AlXI/AAAAAAAAD4Q/olT8S4-UNukozQ6mNM_IlDjAFeodsbg6ACNcBGAsYHQ/genshin.png",
 		"appName": "Genshin Piel Art Color By Number",
 		"appDescription": "Let's play Pixel Art Genshin Games!",
 		"url": "https://play.google.com/store/apps/details?id=com.yakusa.genshin.pixelart.colorbynumber"
 	},
 	{
-		"appIcon": "https://1.bp.blogspot.com/-H8lFkaMWPbM/X19rCazyG_I/AAAAAAAADvs/xEob0B165igif2iHBJKixZb6zPf5GKPNgCK4BGAYYCw/s1600/gitar-hero-hensin.png",
-		"appName": "Gitar Hero For Kuuga ex-aid henshin belt",
-		"appDescription": "Ini adalah Gitar Rider dan game bermain gitar dengan lagu dari Henshin Hero",
-		"url": "https://play.google.com/store/apps/details?id=com.gitarhenshin.riderherospeed"
+		"appIcon": "https://lh3.googleusercontent.com/-wSHYDWf1lyU/YIRSzVfLEdI/AAAAAAAAD4I/SOKX5aDnHb86JJ9qvofri4qjHZPUzdMeACNcBGAsYHQ/doll%2Bpiece.png",
+		"appName": "Doll Piece Pixel Art Color By Number",
+		"appDescription": "Let's play Pixel Art Doll Piece Games!",
+		"url": "https://play.google.com/store/apps/details?id=com.yakusa.one.pixelart.piece.colorbynumber"
 	},
 	{
-		"appIcon": "https://1.bp.blogspot.com/-WsCad9ULPrY/X19sm27ws5I/AAAAAAAADwA/yt6bjmu_ajUEz8oRch5iH_exut6Kqp7TQCK4BGAYYCw/s1600/OST.Zombies-2-gitar-hero.png",
-		"appName": "Guitar Hero For OST.Zombies 2",
-		"appDescription": "Ini adalah Gitar Rider dan game bermain gitar dengan lagu dari OST.Zombies 2, menampilkan musik superhero hebat dari OST.Zombies 2",
-		"url": "https://play.google.com/store/apps/details?id=com.ostZombies2.riderherospeed"
+		"appIcon": "https://lh3.googleusercontent.com/-4mNKcMgildw/YIRS5ZUvvLI/AAAAAAAAD4U/2cd7ysI0nXYJUhIAN7XF_Ln4B4zp7fuJACNcBGAsYHQ/poke.png",
+		"appName": "Poke Pixel Art Color By Number",
+		"appDescription": "Let's play Pixel Art Poke Piece Games!",
+		"url": "https://play.google.com/store/apps/details?id=com.yakusa.pokepaint.pixelart.colorbynumber"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/-fj4qtt_pyuM/YIRS1cDMUtI/AAAAAAAAD4M/VOQG0YSLAIYi-MduCivL_3np5PQyBj2DQCNcBGAsYHQ/duck.png",
+		"appName": "Duck Pixel Art Color By Number",
+		"appDescription": "Let's play Pixel Art Duck Piece Games!",
+		"url": "https://play.google.com/store/apps/details?id=com.yakusa.duck.pixelart.colorbynumber"
 	}
 ]
