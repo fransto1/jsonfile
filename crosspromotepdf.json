@@ -1,26 +1,8 @@
 [
 	{
-		"appIcon": "https://lh3.googleusercontent.com/-qe-3TuHHRnw/YIRS3L0AlXI/AAAAAAAAD4Q/olT8S4-UNukozQ6mNM_IlDjAFeodsbg6ACNcBGAsYHQ/genshin.png",
-		"appName": "Genshin Piel Art Color By Number",
-		"appDescription": "Let's play Pixel Art Genshin Games!",
-		"url": "https://play.google.com/store/apps/details?id=com.yakusa.genshin.pixelart.colorbynumber"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/-wSHYDWf1lyU/YIRSzVfLEdI/AAAAAAAAD4I/SOKX5aDnHb86JJ9qvofri4qjHZPUzdMeACNcBGAsYHQ/doll%2Bpiece.png",
-		"appName": "Doll Piece Pixel Art Color By Number",
-		"appDescription": "Let's play Pixel Art Doll Piece Games!",
-		"url": "https://play.google.com/store/apps/details?id=com.yakusa.one.pixelart.piece.colorbynumber"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/-4mNKcMgildw/YIRS5ZUvvLI/AAAAAAAAD4U/2cd7ysI0nXYJUhIAN7XF_Ln4B4zp7fuJACNcBGAsYHQ/poke.png",
-		"appName": "Poke Pixel Art Color By Number",
-		"appDescription": "Let's play Pixel Art Poke Piece Games!",
-		"url": "https://play.google.com/store/apps/details?id=com.yakusa.pokepaint.pixelart.colorbynumber"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/-fj4qtt_pyuM/YIRS1cDMUtI/AAAAAAAAD4M/VOQG0YSLAIYi-MduCivL_3np5PQyBj2DQCNcBGAsYHQ/duck.png",
-		"appName": "Duck Pixel Art Color By Number",
-		"appDescription": "Let's play Pixel Art Duck Piece Games!",
-		"url": "https://play.google.com/store/apps/details?id=com.yakusa.duck.pixelart.colorbynumber"
+		"appIcon": "",
+		"appName": "",
+		"appDescription": "",
+		"url": ""
 	}
 ]
