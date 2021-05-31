@@ -2,8 +2,9 @@
     "redirect": [
         {
               
-                "status": "0",
-                "link": "https://play.google.com/store/apps/details?id=com.gayo.dramakorea",
+                "status": "1",
+                "link": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack",
+            
                 "webbase":"http://nontonlk21.co.id/gayo/dramakorea/",
                 "appid": "pub-1884588311454523",
                 "admobappid": "ca-app-pub-1884588311454523~7325364019",
@@ -15,11 +16,12 @@
                 "starappid": "",
                  "rewardid_list": "ca-app-pub-1884588311454523/1921326226",
                   "rewardid_down": "ca-app-pub-1884588311454523/1921326226",
-                     "icon_promote": "https://www.aina-wireless.com/wp-content/uploads/2016/11/AINA-Icon-512-x-512-1.png",
+            
+        "icon_promote": "https://www.aina-wireless.com/wp-content/uploads/2016/11/AINA-Icon-512-x-512-1.png",
         "judul_promote": "Promote App Example",
         "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
         "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-        "link_promote": "https://www.google.com/",
+        "link_promote": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack",
         "status_promote": "1",
         "startapp": "12345678"
                  
