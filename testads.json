@@ -2,7 +2,7 @@
     "redirect": [
         {
               
-                "status": "1",
+                "status": "0",
                 "link": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack",
             
                 
@@ -12,7 +12,7 @@
         "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
         "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
         "link_promote": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack",
-        "status_promote": "0"
+        "status_promote": "1"
         
                  
         }
