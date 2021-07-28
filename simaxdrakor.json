@@ -21,7 +21,7 @@
 		"version_app": "1",
 		
 		//Pengaturan Iklan 1=Admob, 2=fan, 3=applovin, 4=Startapp
-		"pengaturan_iklan":"1",
+		"pengaturan_iklan":"0",
 		"interval":"1",
 		
 		// Admob
