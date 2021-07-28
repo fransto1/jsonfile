@@ -2,23 +2,54 @@
 	"redirect": [{
 
 		"status": "0",
-		"link": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack",
+		"link": "https://play.google.com/store/apps/details?id=com.simax.drakorindo",
 
 		"icon_promote": "https://www.aina-wireless.com/wp-content/uploads/2016/11/AINA-Icon-512-x-512-1.png",
 		"judul_promote": "Promote App Example",
 		"deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
 		"gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-		"link_promote": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack",
+		"link_promote": "https://play.google.com/store/apps/details?id=com.simax.drakorindo",
 		"status_promote": "0",
+		"title_rate": "Test Update rateing Judul",
+		"des_rate": "Test Update rateing 5",
+		
+		
+		//Package name
 		"packagename_on": "off",
-        "package_name": "com.simax.drakorindo",
+        	"package_name": "com.simax.drakorindo",
 		"package_name2": "com.simax.drakorindo",
 		"version_app": "1",
 		
+		//Pengaturan Iklan 1=Admob, 2=fan, 3=applovin, 4=Startapp
+		"pengaturan_iklan":"1",
+		"interval":"1",
+		
+		// Admob
+		"pub_id": "",
+        "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+		"admob_banner": "ca-app-pub-3940256099942544/63009781111",
+        "admob_inter": "ca-app-pub-3940256099942544/103317371211",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+		//Fan
+		"fan_inter": "510155906760805_515011289608600",
+        "fan_banner": "510155906760805_515012696275126",
+        "fan_native": "510155906760805_516414246134971",
+		// Applovin
+		"applovin_banner": "29b66f6dbc92efbd",
+		"applovin_inter": "131bb6940ef158a9",
+		"applovin_reward": "70aac4663ff23be6",		
+		//Unity
+		"unity_id": "3062351",
+		"place_unity": "video",
+		//Startapp
+        "enable_startappsplash": "false",
+        "startappid": "204187211",
+        
 		"onwebbase": "1",
-		"webbase": "https://laola.store/drakor/",
+		//"webbase": "https://laola.store/drakor/",
+		"webbase": "https://cyclope.xyz/cemal/anime2/",
 		"apikey": "cda11QbXIO9Z4ly0a2khTFDPA3x6UgSVtCiYRjBqpsfL7w5neN",
-		"unduh": "true"
+		"unduh": "false"
 
         // https://cyclope.xyz/cemal/json/anime
         
