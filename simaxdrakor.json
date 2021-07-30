@@ -27,9 +27,9 @@
 		// Admob
 		"pub_id": "",
         "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"admob_banner": "ca-app-pub-3940256099942544/63009781111",
+        "admob_inter": "ca-app-pub-3940256099942544/10331737121",
+        "admob_native": "ca-app-pub-3940256099942544/22476961101",
 		//Fan
 		"fan_inter": "510155906760805_515011289608600",
         "fan_banner": "510155906760805_515012696275126",
@@ -42,7 +42,7 @@
 		"unity_id": "3062351",
 		"place_unity": "video",
 		//Startapp
-        "enable_startappsplash": "false",
+        "enable_startappsplash": "true",
         "startappid": "204187211",
         
 		"onwebbase": "1",
