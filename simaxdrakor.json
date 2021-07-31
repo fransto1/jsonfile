@@ -22,7 +22,7 @@
 		
 		//Pengaturan Iklan 1=Admob, 2=fan, 3=applovin, 4=Startapp
 		"pengaturan_iklan":"1",
-		"interval":"2",
+		"interval":"1",
 		
 		// Admob
 		"pub_id": "pub-6818658951001004",
