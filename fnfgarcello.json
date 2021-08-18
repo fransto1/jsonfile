@@ -3,8 +3,8 @@
 	"BannerID"        :  "" ,
 	"InterstitialID"  :  "" ,
 	"RewardID"        :  "",
-	"JsonURL"         :  "",
-	"SecretKEY"       :  "",
+	"JsonURL"         :  "https://api.jsonbin.io/b/6113b501e1b0604017ad2e51",
+	"SecretKEY"       :  "$2b$10$0C.0.Ug5Vhnu35avUYE8je.2jbn65Xssg6wH3pmuYF6DvaZLvggg6",
 	"SdkLOVIN"        :  "",
 	"IntersLOVIN"     :  ""
 
