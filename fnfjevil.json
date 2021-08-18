@@ -1,0 +1,11 @@
+{
+	"AppID"           :  "" ,
+	"BannerID"        :  "" ,
+	"InterstitialID"  :  "" ,
+	"RewardID"        :  "",
+	"JsonURL"         :  "",
+	"SecretKEY"       :  "",
+	"SdkLOVIN"        :  "",
+	"IntersLOVIN"     :  ""
+
+}
