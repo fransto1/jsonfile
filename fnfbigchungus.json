@@ -1,0 +1,12 @@
+
+{
+	"AppID"           :  "" ,
+	"BannerID"        :  "" ,
+	"InterstitialID"  :  "" ,
+	"RewardID"        :  "",
+	"JsonURL"         :  "https://api.jsonbin.io/b/611c86882aa80036126bac45",
+	"SecretKEY"       :  "$2b$10$0C.0.Ug5Vhnu35avUYE8je.2jbn65Xssg6wH3pmuYF6DvaZLvggg6",
+	"SdkLOVIN"        :  "",
+	"IntersLOVIN"     :  ""
+
+}
