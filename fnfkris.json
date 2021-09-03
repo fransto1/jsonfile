@@ -1,8 +1,8 @@
 {
-	"AppID"           :  "ca-app-pub-3940256099942544~3347511713" ,
-	"BannerID"        :  "ca-app-pub-3940256099942544/63009781110" ,
-	"InterstitialID"  :  "ca-app-pub-3940256099942544/10331737120" ,
-	"RewardID"        :  "ca-app-pub-3940256099942544/52243549170",
+	"AppID"           :  "ca-app-pub-3940256099942544~3347511713",
+	"BannerID"        :  "ca-app-pub-3940256099942544/6300978111",
+	"InterstitialID"  :  "ca-app-pub-3940256099942544/1033173712",
+	"RewardID"        :  "ca-app-pub-3940256099942544/5224354917",
 	"SdkLOVIN"        :  "L_FbE_Zi2p7792-AmZZKWRu2GuiCkI-T2OPgerK0giHARpSG5qSNMsWrZQMHIsVUTf1BRNJDiL951ZTR3hP4aQ",
 	"IntersLOVIN"     :  "dc9be4477c432f25",
 	"JsonURL"         :  "https://api.jsonbin.io/b/611c84e7076a223676ad2e41",
