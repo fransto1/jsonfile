@@ -5,8 +5,7 @@
 	"InterstitialID"  :  "ca-app-pub-3303846502291322/71698847520",
 	"RewardID"        :  "ca-app-pub-3303846502291322/75163816800",
 	"SdkLOVIN"        :  "L_FbE_Zi2p7792-AmZZKWRu2GuiCkI-T2OPgerK0giHARpSG5qSNMsWrZQMHIsVUTf1BRNJDiL951ZTR3hP4aQ",
-	//"IntersLOVIN"     :  "092b5b46eedb59bb",
-	"IntersLOVIN"     :  "e18ce0bd45c05951", //tesads
+	"IntersLOVIN"     :  "092b5b46eedb59bb",
 	"JsonURL"         :  "https://api.jsonbin.io/b/611c85b9c5159b35aeffeee9",
 	"SecretKEY"       :  "$2b$10$0C.0.Ug5Vhnu35avUYE8je.2jbn65Xssg6wH3pmuYF6DvaZLvggg6"
 
